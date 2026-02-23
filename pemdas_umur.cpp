@@ -11,7 +11,7 @@ int main(){ //program utama
     int age2; //variable local
     int age3;
     age = 30;
-    age1 = 25;
+    age1 = 27;
     age2 = 35;
     age3 = 60;
 
